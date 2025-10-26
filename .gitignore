@@ -1,0 +1,7 @@
+#Ignora todos os arquivos '.txt'
+*.txt
+
+#Ignora todos os arquivos em uma pasta
+temp/
+
+#Ignora um arquivo
