@@ -1,7 +1,8 @@
 #Ignora todos os arquivos '.txt'
 *.txt
 
-#Ignora todos os arquivos em uma pasta
+#Ignora uma pasta e todos os arquivos nelas
 temp/
 
 #Ignora um arquivo
+arquivo.txt
